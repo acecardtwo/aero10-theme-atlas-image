@@ -4,7 +4,7 @@ Theme atlas image extracted from [Aero 10.1](github.com/vaporvance/aero10) theme
 1. Download "aero10.1 theme atlas.png" and "aero10.1 theme atlas.png.layout"
 2. Put them in your OpenGlass installation folder (usually it's C:\Program Files\OpenGlass)
 3. Enable "Theme Atlas Image" from [OpenGlass](https://github.com/ALTaleX531/OpenGlass) and select the .png
-4. Voila
+4. Enjoy Windows 7-like title bar
 
 <img width="1390" height="901" alt="image" src="https://github.com/user-attachments/assets/649b63dd-6ac9-4f6b-8497-bcb5635dd151" />
 
