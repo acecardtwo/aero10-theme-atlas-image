@@ -6,7 +6,8 @@ Theme atlas image extracted from [Aero 10.1](https://github.com/vaporvance/aero1
 3. Enable "Theme Atlas Image" from [OpenGlass](https://github.com/ALTaleX531/OpenGlass) and select the .png
 4. Enjoy Windows 7-like title bar
 
-<img width="1390" height="901" alt="image" src="https://github.com/user-attachments/assets/649b63dd-6ac9-4f6b-8497-bcb5635dd151" />
+<img width="1390" height="901" alt="explorer_FlAjoh3KeK" src="https://github.com/user-attachments/assets/050faffd-ea79-4e5a-ac52-d4899b66e082" />
+
 
 
 ## Credits
