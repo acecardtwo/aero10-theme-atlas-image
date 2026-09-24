@@ -1,4 +1,4 @@
-Theme atlas image extracted from [Aero 10.1](github.com/vaporvance/aero10) theme, for personal usage
+Theme atlas image extracted from [Aero 10.1](https://github.com/vaporvance/aero10) theme, for personal usage
 
 ## How to apply
 1. Download "aero10.1 theme atlas.png" and "aero10.1 theme atlas.png.layout"
@@ -17,7 +17,7 @@ Theme atlas image extracted from [Aero 10.1](github.com/vaporvance/aero10) theme
 - [sdasfasfasf](test) for an Aerexplorer fork for Windows 11  -->
 - Microsoft for original themes, wallpapers from Windows Vista, Windows 7 and Windows 8/8.1
 - [ojask](https://github.com/ojask) for Aero10: Vista Control Panel Sidebar idea
-- [vaporvance](https://github.com/vaporvance) for [Aero10](github.com/vaporvance/aero10) theme, licensed under [CC BY-NC-SA 4.0](https://github.com/vaporvance/aero10/blob/master/LICENSE.md)
+- [vaporvance](https://github.com/vaporvance) for [Aero10](https://github.com/vaporvance/aero10) theme, licensed under [CC BY-NC-SA 4.0](https://github.com/vaporvance/aero10/blob/master/LICENSE.md)
 	
 ## Licensing
 This project distributed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License, See License tab for more information.
