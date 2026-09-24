@@ -1,4 +1,4 @@
-Image theme atlas extracted from Aero 10.1 theme, for personal usage
+Theme atlas image extracted from Aero 10.1 theme, for personal usage
 
 ## How to apply
 1. Download "aero10.1 theme atlas.png" and "aero10.1 theme atlas.png.layout"
