@@ -1,9 +1,9 @@
-Theme atlas image extracted from Aero 10.1 theme, for personal usage
+Theme atlas image extracted from [Aero 10.1](github.com/vaporvance/aero10) theme, for personal usage
 
 ## How to apply
 1. Download "aero10.1 theme atlas.png" and "aero10.1 theme atlas.png.layout"
 2. Put them in your OpenGlass installation folder (usually it's C:\Program Files\OpenGlass)
-3. Enable "Theme Atlas Image" from OpenGlass and select the .png
+3. Enable "Theme Atlas Image" from [OpenGlass](https://github.com/ALTaleX531/OpenGlass) and select the .png
 4. Voila
 
 <img width="1390" height="901" alt="image" src="https://github.com/user-attachments/assets/649b63dd-6ac9-4f6b-8497-bcb5635dd151" />
@@ -17,7 +17,7 @@ Theme atlas image extracted from Aero 10.1 theme, for personal usage
 - [sdasfasfasf](test) for an Aerexplorer fork for Windows 11  -->
 - Microsoft for original themes, wallpapers from Windows Vista, Windows 7 and Windows 8/8.1
 - [ojask](https://github.com/ojask) for Aero10: Vista Control Panel Sidebar idea
-- [vaporvance](https://github.com/vaporvance) for Aero10.1 theme
+- [vaporvance](https://github.com/vaporvance) for [Aero10](github.com/vaporvance/aero10) theme, licensed under [CC BY-NC-SA 4.0](https://github.com/vaporvance/aero10/blob/master/LICENSE.md)
 	
 ## Licensing
 This project distributed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License, See License tab for more information.
